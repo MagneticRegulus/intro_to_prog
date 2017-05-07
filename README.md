@@ -6,6 +6,7 @@ This README is intended for teachers at Launch School who may need to assess my 
 
 ## Notes and Updates
 
-* May 7th 2017: Testing my repository clone
+* May 7th 2017, later: Published first half of chapter 5, ended on for loops.
+* May 7th 2017: Testing my repository clone.
 * May 6th 2017: Published chapters 3 - 4.
 * May 3rd 2017: Initialized repository and published chapters 1 - 2.
