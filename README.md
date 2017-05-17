@@ -6,6 +6,7 @@ This README is intended for teachers at Launch School who may need to assess my 
 
 ## Notes and Updates
 
+* May 17th 2017: Finished Chapter 7.
 * May 16th 2017: Nearly finished with chapter 7; exercises incomplete
 * May 10th, later: Finished chapter 6.
 * May 10th 2017: Finished chapter 5.
