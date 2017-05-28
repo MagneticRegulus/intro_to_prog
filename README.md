@@ -6,6 +6,7 @@ This README is intended for teachers at Launch School who may need to assess my 
 
 ## Notes and Updates
 
+* May 28th 2017: Book complete!
 * May 27th 2017: Finished Chapter 9; created all exercise files
 * May 21st 2017: Finished Chapter 8.
 * May 17th, later: Added beginning of Chapter 8.
